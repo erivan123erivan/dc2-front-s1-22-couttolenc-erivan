@@ -1,0 +1,21 @@
+.first, .third {
+	color: royalblue;
+}
+
+.second, .fourth {
+	color: lightpink;
+}
+.fifth {
+	color: grey;
+}
+
+.mylist {
+	border-style: double;
+	border-width: 5px;
+}
+
+div {
+	background-color: lightcoral;
+	text-align: center;
+	font-family: cursive;
+}
